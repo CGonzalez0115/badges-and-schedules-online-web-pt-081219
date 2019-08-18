@@ -9,3 +9,4 @@ def assign_rooms
   room_assignments.each do |room_assignments|
     puts "Hello, #{attendee}! You'll be assigned to #{room_assignments}"
   end
+end
